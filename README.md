@@ -1,5 +1,5 @@
 # 🍽️ FLAVOUR-DELIGHTS  
-### *An Online Food Delivery Website (Frontend Only)*
+### *An Online Food Delivery Website*
 
 **FlavourDELIGHTS** is a frontend-only web project showcasing a stylish, responsive food-themed interface built entirely with **HTML and inline CSS**. Created as a group collaboration, the site highlights a range of delightful dishes, trending recipes, and popular restaurants — all within an intuitive, image-rich layout. No backend logic is included.
 
