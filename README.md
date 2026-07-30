@@ -18,16 +18,6 @@
 
 👉 [View Live Site](https://suchi974.github.io/FLAVOUR-DELIGHTS/)
 
----
-
-## 👩‍💻 Collaborators
-
-- [Suchismita Ghosh](https://github.com/suchi974)  
-- [Swastika Biswas](https://github.com/swastika-12-git)  
-- [Ankita Dubey](https://github.com/teammate3)
-
----
-
 ## 💡 How to Use
 
 No installation needed — it's a fully static website!
