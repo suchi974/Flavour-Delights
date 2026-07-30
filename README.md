@@ -16,7 +16,7 @@
 
 ## 🔗 Live Preview
 
-👉 [View Live Site](https://suchi974.github.io/FLAVOUR-DELIGHTS/)
+👉 https://suchi974.github.io/FLAVOUR-DELIGHTS/
 
 ## 💡 How to Use
 
