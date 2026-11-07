@@ -14,10 +14,6 @@
 
 ---
 
-## 🔗 Live Preview
-
-👉 https://suchi974.github.io/FLAVOUR-DELIGHTS/
-
 ## 💡 How to Use
 
 No installation needed — it's a fully static website!
