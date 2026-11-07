@@ -1,4 +1,4 @@
-# 🍽️ FLAVOUR-DELIGHTS  
+# 🍽️ Flavour-Delights 
 ### *An Online Food Delivery Website*
 
 **FlavourDELIGHTS** is a web project showcasing a stylish, responsive food-themed interface built entirely with **HTML and inline CSS**. Created as a group collaboration, the site highlights a range of delightful dishes, trending recipes, and popular restaurants — all within an intuitive, image-rich layout. No backend logic is included.
